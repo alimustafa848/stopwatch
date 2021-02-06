@@ -1,0 +1,24 @@
+body{
+    background-color:gray;
+}
+.main{
+    text-align: center;
+    color:black;
+
+
+}
+h1{
+    display: inline-block;
+  width : 110px;
+  background-color: aliceblue;  
+}
+button{
+    border-radius: 20px ;
+    width : 100px;
+    padding: 10px;
+    margin: 5px;
+}
+button:hover{
+    color:whitesmoke;
+    background-color: yellowgreen;
+}
